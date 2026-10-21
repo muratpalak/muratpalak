@@ -18,6 +18,28 @@ Based in Türkiye · Open to IT opportunities in **Türkiye, Germany & Switzerla
 
 **TR** — Son kullanıcı teknik desteği, sistematik sorun giderme, destek talebi yönetimi ve teknik dokümantasyon alanlarına odaklanıyorum. Bu sayfada kaynak kodları, gerçek uygulama ekran görüntüleri ve tekrarlanabilir testleri bulunan örnek projelerimi paylaşıyorum. Türkiye, Almanya ve İsviçre'deki IT Support / Bilgi İşlem / Helpdesk pozisyonlarına açığım.
 
+<!-- BEGIN: VERIFIED PROFESSIONAL PRACTICE -->
+
+## Professional experience / Berufserfahrung / İş deneyimi
+
+**Final Publishing and Advertising Ltd. Şti. · IT Support / Bilgi İşlem Personeli · Apr 2012 – Jul 2024 · Istanbul (full-time)**
+
+- Primary internal IT contact for approximately **128 employees**, supporting Windows/macOS users on-site and remotely.
+- Handled an average of **6–7 IT support requests per working day**: prioritisation, diagnosis, resolution, documentation and closure.
+- Prepared new-starter workstations and standard software; supported Windows user accounts and password-related requests.
+- Worked with the **Microsoft 365 Admin Center** and everyday Outlook/Microsoft 365 support workflows.
+- Investigated LAN/WLAN, modem/router/switch, hardware and software issues.
+
+**DE:** Berufliche IT-Support-Praxis (04/2012–07/2024): Betreuung von ca. 128 Mitarbeitenden, durchschnittlich 6–7 Anfragen pro Arbeitstag, Einrichtung von Arbeitsplätzen, Windows-Konten, Microsoft 365 Admin Center und Netzwerkdiagnose.
+
+**TR:** Gerçek iş deneyimi (04/2012–07/2024): Yaklaşık 128 çalışana IT desteği, günlük ortalama 6–7 talep, cihaz/yazılım kurulumları, Windows kullanıcı hesapları, Microsoft 365 Admin Center ve ağ arızaları.
+
+[**Detailed professional practice / Berufspraxis / Ayrıntılı iş deneyimi**](experience/PROFESSIONAL_PRACTICE.md)
+
+> Professional responsibilities are distinct from the **fictional** tickets in the GitHub demos. No direct Active Directory, Entra ID or Intune administration is claimed. [Microsoft 365 / Entra / Intune simulated training lab](https://github.com/muratpalak/Microsoft-365-Support-Knowledge-Base/tree/main/labs) documents learning exercises, not a live tenant.
+
+<!-- END: VERIFIED PROFESSIONAL PRACTICE -->
+
 ## Evidence first: four IT Support projects
 
 | Project / Projekt | Support scenario / Praxisfall | Evidence / Nachweis |
