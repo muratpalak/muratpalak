@@ -2,47 +2,49 @@
 
 # Murat Palak
 
-### IT Support · Service Desk · Endpoint Diagnostics · Technical Documentation
+### IT Support · Service Desk · Endpoint & Network Troubleshooting
 
-**Windows / macOS · Microsoft 365 workflows · Networking · PowerShell · Python**
+**Windows / macOS · Microsoft 365 Support Workflows · PowerShell · Python · Technical Documentation**
 
-Based in Türkiye · Open to opportunities in Germany and Switzerland
-
-[![GitHub profile](https://img.shields.io/badge/GitHub-muratpalak-181717?logo=github)](https://github.com/muratpalak)
+Based in Türkiye · Open to IT opportunities in **Türkiye, Germany & Switzerland**
 
 </div>
 
-## About / Über mich
+## At a glance / Auf einen Blick / Kısa bakış
 
-**EN** — I work on practical IT support and software portfolio projects focused on troubleshooting, end-user workflows, documentation and reliable processes. These repositories demonstrate repeatable test scenarios, clear technical notes and local-first applications. I am interested in IT Support, Helpdesk, Desktop Support and related operations roles in Germany and Switzerland.
+**EN** — My focus is end-user support, structured fault diagnosis, service-desk workflows and clear technical documentation. This portfolio contains practical, locally runnable demonstrations with source code, screenshots and reproducible checks. My primary interest is in IT Support, Helpdesk, Desktop Support and related operations roles.
 
-**DE** — Mein Fokus liegt auf IT-Support, Fehleranalyse, Anwenderprozessen und technischer Dokumentation. Meine GitHub-Projekte zeigen nachvollziehbare Support-Szenarien, automatisierte Tests und lokal ausführbare Anwendungen. Ich interessiere mich für Positionen im IT-Support, Service Desk und Desktop Support in Deutschland und der Schweiz.
+**DE** — Mein Schwerpunkt liegt auf Anwendersupport, systematischer Fehleranalyse, Service-Desk-Prozessen und technischer Dokumentation. Das Portfolio zeigt lokal ausführbare Demonstrationsprojekte mit Quellcode, Screenshots und nachvollziehbaren Prüfungen. Ich interessiere mich für Stellen im IT-Support, Helpdesk und Desktop Support.
 
-> **Transparency / Transparenz:** These are portfolio/demonstration projects, not claims of production deployment or certification. CI success verifies the automated checks defined for each repository, not every real-world usage scenario. / Dies sind Portfolio- und Demonstrationsprojekte, keine Produktivsysteme.
+**TR** — Son kullanıcı teknik desteği, sistematik sorun giderme, destek talebi yönetimi ve teknik dokümantasyon alanlarına odaklanıyorum. Bu sayfada kaynak kodları, gerçek uygulama ekran görüntüleri ve tekrarlanabilir testleri bulunan örnek projelerimi paylaşıyorum. Türkiye, Almanya ve İsviçre'deki IT Support / Bilgi İşlem / Helpdesk pozisyonlarına açığım.
 
-## Selected projects / Ausgewählte Projekte
+## Evidence first: four IT Support projects
 
-| Project | What it demonstrates | Checks |
-|---|---|---|
-| [IT Helpdesk & Ticket Management](https://github.com/muratpalak/IT-Helpdesk-Ticket-Management) | Ticket triage, priorities, assignment and resolution lifecycle | [![CI](https://github.com/muratpalak/IT-Helpdesk-Ticket-Management/actions/workflows/tests.yml/badge.svg)](https://github.com/muratpalak/IT-Helpdesk-Ticket-Management/actions/workflows/tests.yml) |
-| [Windows IT Support Toolkit](https://github.com/muratpalak/Windows-IT-Support-Toolkit) | PowerShell diagnostics and endpoint reporting | [![CI](https://github.com/muratpalak/Windows-IT-Support-Toolkit/actions/workflows/powershell-tests.yml/badge.svg)](https://github.com/muratpalak/Windows-IT-Support-Toolkit/actions/workflows/powershell-tests.yml) |
-| [Network Diagnostic Tool](https://github.com/muratpalak/Network-Diagnostic-Tool) | DNS, ping, TCP, HTTPS and HTML/JSON reports | [![CI](https://github.com/muratpalak/Network-Diagnostic-Tool/actions/workflows/tests.yml/badge.svg)](https://github.com/muratpalak/Network-Diagnostic-Tool/actions/workflows/tests.yml) |
-| [Microsoft 365 Knowledge Base](https://github.com/muratpalak/Microsoft-365-Support-Knowledge-Base) | German-language support documentation and onboarding | [![Pages](https://github.com/muratpalak/Microsoft-365-Support-Knowledge-Base/actions/workflows/pages.yml/badge.svg)](https://github.com/muratpalak/Microsoft-365-Support-Knowledge-Base/actions/workflows/pages.yml) |
+| Project / Projekt | Support scenario / Praxisfall | Evidence / Nachweis |
+| --- | --- | --- |
+| **[NexaDesk — IT Helpdesk](https://github.com/muratpalak/IT-Helpdesk-Ticket-Management)** | Wi-Fi / DHCP support ticket → severity-based P1–P4 triage → assignment → resolution notes and closure | [Screenshot](https://github.com/muratpalak/IT-Helpdesk-Ticket-Management/blob/main/docs/dashboard-preview.png) · [Example cases](https://github.com/muratpalak/IT-Helpdesk-Ticket-Management/blob/main/docs/SUPPORT_SCENARIOS.md) · [Tests](https://github.com/muratpalak/IT-Helpdesk-Ticket-Management/actions/workflows/tests.yml) |
+| **[WIT Studio — Windows IT Support Toolkit](https://github.com/muratpalak/Windows-IT-Support-Toolkit)** | Identify low disk space or review stopped services → produce diagnostic findings and reports | [Screenshot](https://github.com/muratpalak/Windows-IT-Support-Toolkit/blob/main/docs/dashboard-preview.png) · [Example cases](https://github.com/muratpalak/Windows-IT-Support-Toolkit/blob/main/docs/SUPPORT_SCENARIOS.md) · [Tests](https://github.com/muratpalak/Windows-IT-Support-Toolkit/actions/workflows/powershell-tests.yml) |
+| **[Network Diagnostic Tool](https://github.com/muratpalak/Network-Diagnostic-Tool)** | Narrow down a connectivity issue with DNS, ICMP, TCP and HTTPS diagnostics | [Screenshot](https://github.com/muratpalak/Network-Diagnostic-Tool/blob/main/dashboard-preview.png) · [Example cases](https://github.com/muratpalak/Network-Diagnostic-Tool/blob/main/docs/SUPPORT_SCENARIOS.md) · [Tests](https://github.com/muratpalak/Network-Diagnostic-Tool/actions/workflows/tests.yml) |
+| **[m365.desk — Microsoft 365 Knowledge Base](https://github.com/muratpalak/Microsoft-365-Support-Knowledge-Base)** | Document a safe Microsoft 365 onboarding process and MFA recovery escalation | [Live documentation](https://muratpalak.github.io/Microsoft-365-Support-Knowledge-Base/) · [Example cases](https://github.com/muratpalak/Microsoft-365-Support-Knowledge-Base/blob/main/docs/SUPPORT_SCENARIOS.md) · [Pages workflow](https://github.com/muratpalak/Microsoft-365-Support-Knowledge-Base/actions/workflows/pages.yml) |
 
-**More software examples:** [TravelOps Pro](https://github.com/muratpalak/TravelOps-Pro) · [Frameera Social OS](https://github.com/muratpalak/Frameera-Social-OS) · [LegalDesk Pro](https://github.com/muratpalak/LegalDesk-Pro)
+**How to review in 60 seconds:** Open any **Example cases** link → see the symptom, approach and verification → open the **Screenshot** or live documentation → follow the **Tests** link. Each repository also provides installation instructions and an EN/DE technical case study.
 
-## Competencies demonstrated / Nachweisbare Schwerpunkte
+## Technical skills demonstrated / Technische Schwerpunkte
 
-- **IT service desk:** Ticket workflows, prioritisation, escalation-friendly notes, troubleshooting documentation.
-- **Endpoint and network support:** Windows PowerShell, local device diagnostics, DNS / TCP / HTTPS checks, structured reports.
-- **Microsoft 365 support knowledge:** Outlook, Teams, OneDrive, SharePoint, identity/MFA and onboarding playbooks (**documentation project, not a live tenant integration**).
-- **Development and verification:** Python, FastAPI, SQLite, JavaScript, TypeScript, React and GitHub Actions.
-- **Documentation:** Project instructions and selected content in English, German and Turkish. Documentation language does not claim a particular spoken proficiency level.
+- **Ticketing & operations:** triage, impact/urgency classification, assignment, status transitions, resolution notes, CSV reporting.
+- **Network troubleshooting:** DNS lookup, ping, TCP reachability, HTTPS response, local interface and gateway inspection.
+- **Endpoint support:** Windows/PowerShell inventory, disk and services analysis, read-only device diagnostics, HTML/JSON reporting.
+- **Microsoft 365 workflows:** German-language guides for account onboarding, Outlook, Teams, OneDrive, SharePoint and MFA escalation (**documentation only; no live tenant administration is demonstrated**).
+- **Software & reproducibility:** Python, FastAPI, SQLite, JavaScript, TypeScript, React, automated tests and CI workflows.
 
-## How to review
+## Additional software / Weitere Softwareprojekte
 
-Start with the four IT-support projects above. Each repository includes usage notes and a dedicated **[portfolio case study](https://github.com/muratpalak/IT-Helpdesk-Ticket-Management/blob/main/docs/PORTFOLIO_CASE_STUDY.md)**-style document explaining scope, technologies, verification and limitations. Browse the **Actions** tab for CI run history and refer to the README for exact local installation steps.
+[TravelOps Pro](https://github.com/muratpalak/TravelOps-Pro) — agency CRM, tours and booking demo · [Frameera Social OS](https://github.com/muratpalak/Frameera-Social-OS) — local content-planning demo · [LegalDesk Pro](https://github.com/muratpalak/LegalDesk-Pro) — law-office workflow demo.
+
+## Scope and transparency / Grenzen der Projekte
+
+All repositories are **portfolio/demonstration projects**. Fictional support tickets, simulated device data and screenshots are labeled as such. A passing GitHub Actions run verifies only its defined tests/build checks, **not** production suitability or a commercial deployment. The Microsoft 365 project provides guidance, not access to a real tenant. Documentation language does not imply spoken-language certification. No customer records, secrets or private corporate data are published.
 
 ---
 
-<sub>All project examples are demonstrations with stated limitations. No real customer records, passwords or private corporate data are intended for these repositories.</sub>
+<sub>Portfolio focus: IT Support · Helpdesk · Desktop Support · Troubleshooting · Documentation. GitHub: <a href="https://github.com/muratpalak">@muratpalak</a>.</sub>
